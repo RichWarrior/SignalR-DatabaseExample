@@ -1,0 +1,6 @@
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\bin\Debug\SharedLayer.dll
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\bin\Debug\SharedLayer.pdb
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\obj\Debug\SharedLayer.csprojAssemblyReference.cache
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\obj\Debug\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\obj\Debug\SharedLayer.dll
+C:\Users\faruk\Desktop\DependencyExample\SharedLayer\obj\Debug\SharedLayer.pdb
